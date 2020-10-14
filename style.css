@@ -27,6 +27,11 @@ h2 {
   text-shadow: 3px3px #050000;
 }
 
+ol {
+  font-family: Impact, Charcoal, sans-serif;
+   
+}
+
 .center {
   display: block;
   margin-left: auto;
