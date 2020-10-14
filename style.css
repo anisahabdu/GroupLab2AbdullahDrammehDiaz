@@ -1,0 +1,55 @@
+body {
+background: linear-gradient(to right, #ff9300 21%, #ffcb3e 98%);
+
+ display: block;
+ width: 1200px;
+ border: 15px solid rgb(226, 40, 7); 
+ margin: 50px;
+ padding: 20px;
+}
+
+h1 {
+   text-align: center;
+   font-family: Impact, Charcoal, sans-serif; 
+   font-size: 60px;
+  text-shadow: 2px 2px #050000;
+}
+h3 {
+   text-align: center;
+   font-family: Impact, Charcoal, sans-serif; 
+  text-shadow: 1px 1px #000000;
+}
+
+h2 {
+  text-align: center;
+  font-family: Impact, Charcoal, sans-serif; 
+  font-size: 50px;
+  text-shadow: 3px3px #050000;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    margin-right: 20px;
+}  
+
+a:link {
+  color: rgb(17, 0, 255);
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+a:hover {
+  color: hotpink;
+  font-family: Impact, Charcoal, sans-serif;
+
+}
